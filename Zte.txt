@@ -1,0 +1,4 @@
+Zte 10 hely 13 pont 3 gyozelem
+Ute 6 hely 23 pont 6 gyozelem
+Mtk 4 hely 27 pont 7 gyozelem
+Ftc 1 hely 30 pont 10 gyozelem
