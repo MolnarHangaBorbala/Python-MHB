@@ -1,0 +1,15 @@
+Skoda	Octavia	Benzin	150	1498	5
+Skoda	Superb	Dizel	190	1968	5
+Skoda	EnyaqiV	Hibrid	204	0	5
+Audi	A4	Benzin	170	1984	4
+Audi	A6	Dizel	204	1968	4
+Audi	Q5TFSIe	Hibrid	265	1984	5
+Opel	Astra	Benzin	130	1199	5
+Opel	Insign	Dizel	174	1995	5
+Opel	Grand	Hibrid	224	1598	5
+BMW	320i	Benzin	184	1998	4
+BMW	520d	Dizel	190	1995	4
+BMW	X5xDriv	Hibrid	394	2998	5
+Nissan	Qashqai	Benzin	140	1332	5
+Nissan	X-Trail	Dizel	150	1749	5
+Nissan	JukeHy	Hibrid	143	1598	5
