@@ -86,7 +86,6 @@ print(sz2)
 print(sz2.gyar())
 print(sz2.knev)
 print(sz2.gydb)
-"""
 
 
 
@@ -105,7 +104,80 @@ class Auto():
 
 a1=Auto("Nissan","Almera",3000000)
 
-print(a1.autoar)
+print(a1.autoar())
+
+
+
+
+
+
+
+
+
+class Kutya():
+    def __init__(self,fajta,nev,kor):
+        self.fajta=fajta
+        self.nev=nev
+        self.kor=kor
+
+    def kora(self):
+        ko=self.kor*7
+        return ko
+
+    def __repr__(self):
+        return f"A kutya fajtája: {self.fajta}, neve {self.nev}, kora: {self.kor}"
+
+k1=Kutya("Amerikai staffordshire terrier","Rokkó",12)
+k2=Kutya("Tacskó","Mucsi",4)
+
+print(k1)
+print("----------------------------")
+print(k2)
+print("----------------------------")
+print("1. Példa:")
+print(k1.nev)
+print(k1.fajta)
+print(k1.kora())
+print("----------------------------")
+print("2. Példa:")
+print(k2.nev)
+print(k2.fajta)
+print(k2.kora())
+"""
+
+
+
+import random
+korlst=[]
+
+class Kor():        
+    def __init__(self,sugar):
+        self.sugar=sugar
+
+    def kerulet(self):
+        ker=self.sugar*2*3.14
+        return ker
+
+    def __repr__(self):
+        return f"A kor sugara {self.sugar}"
+
+for i in range(12):
+    k1=Kor(random.randint(2,7))
+    korlst.append(k1)
+
+
+print(korlst)
+print(k1)
+print(k1.kerulet())
+
+
+
+
+
+
+
+
+
 
 
 
