@@ -1,0 +1,6 @@
+NyiriVince ZTE 1	2	3	4	True
+MedgyesSinan ZTE 4	0	2	1	False
+BödeDániel Paks 7	3	0	2	True
+VargaBarni FTC 6	0	0	2	False
+DibuszDénes FTC	8	1	0	2	False
+TajtiMátyás UTE 11	0	0	2	False
