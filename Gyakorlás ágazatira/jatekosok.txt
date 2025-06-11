@@ -1,0 +1,14 @@
+Messi InterMiami 10 15 12 1 0 True
+Ronaldo AlNassr 7 20 7 2 1 True
+Sallai Freiburg 22 4 5 0 0 True
+Kovacs Vasas 9 3 2 3 0 False
+Mbappe PSG 10 18 10 2 0 True
+Haaland ManCity 9 25 5 1 0 True
+Szoboszlai Liverpool 8 6 7 2 0 True
+Neymar AlHilal 11 10 8 1 1 True
+Modric RealMadrid 10 5 9 1 0 True
+Grealish ManCity 7 4 6 0 0 False
+Kane Bayern 9 22 4 1 0 True
+Sterling Chelsea 17 7 6 2 0 False
+Benzema AlIttihad 9 14 4 1 0 True
+Dembele PSG 10 3 7 2 1 False
